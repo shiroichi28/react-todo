@@ -15,7 +15,7 @@ Todo is developed with Vite and React. I built this example to showcase componen
 
 Clone the repository
 ```bash
-  cd stopWatch
+  cd react-todo
   npm install
   npm run dev
 ```
